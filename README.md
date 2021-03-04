@@ -8,6 +8,7 @@ For the best model I found:
 * Compute precision, recall and F1 for each class.
 * Plot the loss vs epochs curve and the ROC curve 
 
-My solution is implemented in ***PyTorch*** and the report is well documented. I also have a notebook with the preprocess of the data.
+My solution is implemented in ***PyTorch*** and the report is well documented. I also have a notebook with the preprocess of the data. For running them, I used the Google Colab with its GPU.
+
 
 ***Note:*** I also utilize pre-trained word embeddings ***GloVe*** as the initial embeddings to input on your models.
