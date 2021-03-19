@@ -1,4 +1,4 @@
-# Bidirectional stacked RNN with LSTM GRU
+# Bidirectional stacked RNN with LSTM/GRU
 
 Here I develop a sentiment classifier using a ***bidirectional stacked RNN with LSTM/GRU cells*** for the Twitter sentiment analysis dataset, which is [available here](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view).  
 
@@ -12,3 +12,7 @@ My solution is implemented in ***PyTorch*** and the report is well documented. I
 
 
 ***Note:*** I also utilize pre-trained word embeddings ***GloVe*** as the initial embeddings to input on your models.
+
+You can check the Google Colab Notebooks here:
+  * Preprocessing of data: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjBOVZ1mnOCe4rTxmfTdFhZ3CS5a7ZRC)
+  * Bidirectional stacked RNN with LSTM/GRU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZwEAjjE2qj_Cv6yRycS5oCfrp4g_eIn)
